@@ -6,3 +6,6 @@ Proposed papers include:
 
 1.  Widespread precipitation
 2.  Machine learning for rainfall onset
+
+
+SOI data obtained from https://psl.noaa.gov/gcos_wgsp/Timeseries/
